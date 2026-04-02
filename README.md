@@ -1,8 +1,9 @@
 
 
-[![woxQAQ's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=woxQAQ&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woxQAQ)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=woxQAQ&count_private=true" alt="woxQAQ's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=woxQAQ&layout=compact" alt="Top Langs" />
+</p>
 
 <div align="center">
 	<picture>
